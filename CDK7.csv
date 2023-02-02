@@ -1,0 +1,4 @@
+index   name    smiles
+1       CHEMBL3824119.png       O=C(CNC(=O)c1cccn(Cc2ccc(F)c(F)c2)c1=O)Nc1ccc2c(c1)/C(=C/c1cnc[nH]1)C(=O)N2
+2       CHEMBL4203179.png       CCN1CCC(N2CCc3nc(Nc4ncc(F)c(-c5cc(F)c6nc(C)n(C(C)C)c6c5)n4)ccc3C2)CC1
+3       CHEMBL4459587.png       C=CS(=O)(=O)Nc1ccc(Cc2ccc3ccccc3c2)cc1
